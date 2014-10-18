@@ -11,6 +11,7 @@ namespace test_code__VS_connect
         static void Main(string[] args)
         {
             Console.WriteLine("Lets see if this gets commited to git hub :)");
+            Console.WriteLine("this the second the change i am making to the file... and the second commit from the VS_13..DIRECTLY");
         }
     }
 }
